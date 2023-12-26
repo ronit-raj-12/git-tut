@@ -1,2 +1,2 @@
 console.log("hello hii")
-console.log("private")
+console.log("private 1")
